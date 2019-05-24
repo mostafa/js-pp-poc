@@ -1,0 +1,22 @@
+{
+  "name": "0day",
+  "version": "0.0.1",
+  "description": "Prototype Pollution Attack on Node.js Redis Driver",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "redis",
+    "javascript",
+    "prototype pollution",
+    "security"
+  ],
+  "author": "Mostafa Moradian",
+  "license": "GPL",
+  "dependencies": {
+    "ioredis": "^4.9.5",
+    "redis": "^2.8.0"
+  }
+}
